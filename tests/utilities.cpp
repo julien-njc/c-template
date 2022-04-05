@@ -1,8 +1,4 @@
-extern "C"
-{
 #include "utilities/memory.h"
-}
-
 #include <catch2/catch.hpp>
 #include <limits>
 
